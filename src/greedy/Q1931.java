@@ -43,7 +43,6 @@ public class Q1931 {
             if (endTime <= meetings[i].start)  {
                 answer ++;
                 endTime = meetings[i].end;
-//                System.out.println(String.format("%d\t%d",meetings[i].start, meetings[i].end));
             }
         }
         System.out.println(answer);
