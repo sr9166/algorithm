@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f5c3b7d-1e24-4fee-9b41-b6c7f5a39a18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/Q11047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/Q1931.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/DP/Q7579.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/DP/Q7579.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simulation/Q14719.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation/Q14719.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q1931">
+  <component name="RunManager" selected="Application.Q15649">
     <configuration name="Q11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greedy.Q11047" />
       <module name="Alogorithm" />
@@ -81,6 +76,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q15649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Q15649" />
+      <module name="Alogorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9252" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.Q9252" />
-      <module name="Alogorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q15649" />
         <item itemvalue="Application.Q1931" />
         <item itemvalue="Application.Q11047" />
         <item itemvalue="Application.Q12865" />
         <item itemvalue="Application.Q7579" />
-        <item itemvalue="Application.Q9252" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +161,7 @@
       <workItem from="1574578728910" duration="4252000" />
       <workItem from="1576651346396" duration="571000" />
       <workItem from="1576889464900" duration="220000" />
-      <workItem from="1577353032509" duration="2095000" />
+      <workItem from="1577353032509" duration="3702000" />
     </task>
     <servers />
   </component>
