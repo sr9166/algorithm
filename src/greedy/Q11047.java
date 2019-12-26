@@ -28,7 +28,6 @@ public class Q11047 {
                 }
             }
         }
-
         System.out.println(answer);
     }
 }
