@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f5c3b7d-1e24-4fee-9b41-b6c7f5a39a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q1206.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q1206.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q1206">
+  <component name="RunManager" selected="Application.Q1208">
     <configuration name="Q10870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.Q10870" />
       <module name="Alogorithm" />
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.Q15649" />
+    <configuration name="Q1208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_D3.Q1208" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backtracking.*" />
+          <option name="PATTERN" value="SWEA_D3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.Q1931" />
+    <configuration name="Q15649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Q15649" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="greedy.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1208" />
         <item itemvalue="Application.Q1206" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Q10870" />
         <item itemvalue="Application.Q15649" />
-        <item itemvalue="Application.Q1931" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +167,7 @@
       <workItem from="1576889464900" duration="220000" />
       <workItem from="1577353032509" duration="4589000" />
       <workItem from="1577601351352" duration="1487000" />
-      <workItem from="1578823668666" duration="1679000" />
+      <workItem from="1578823668666" duration="2457000" />
     </task>
     <servers />
   </component>
