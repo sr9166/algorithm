@@ -3,11 +3,14 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.PriorityQueue;
+import java.util.Scanner;
 import java.util.Stack;
 
 public class main {
     public static void main(String[] args) {
-        String str = "hello";
-        System.out.println(str.indexOf('t'));
+        Scanner sc = new Scanner(System.in);
+
+        String str = sc.next();
+        System.out.println(str.toUpperCase());
     }
 }
