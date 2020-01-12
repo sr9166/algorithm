@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8f5c3b7d-1e24-4fee-9b41-b6c7f5a39a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q1204.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q1210.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q1210.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SWEA_D3/Q1210.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA_D3/Q1210.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +70,11 @@
   </component>
   <component name="RunManager" selected="Application.Q1210">
     <configuration name="Q1204" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_D3.Q1204" />
+      <option name="MAIN_CLASS_NAME" value="SWEA_D2.Q1204" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA_D3.*" />
+          <option name="PATTERN" value="SWEA_D2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,7 +87,7 @@
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA_D3.*" />
+          <option name="PATTERN" value="SWEA_D2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,7 +100,7 @@
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA_D3.*" />
+          <option name="PATTERN" value="SWEA_D2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,7 +113,7 @@
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA_D3.*" />
+          <option name="PATTERN" value="SWEA_D2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,7 +126,7 @@
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SWEA_D3.*" />
+          <option name="PATTERN" value="SWEA_D2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,7 +175,7 @@
       <workItem from="1576889464900" duration="220000" />
       <workItem from="1577353032509" duration="4589000" />
       <workItem from="1577601351352" duration="1487000" />
-      <workItem from="1578823668666" duration="5164000" />
+      <workItem from="1578823668666" duration="5865000" />
     </task>
     <servers />
   </component>

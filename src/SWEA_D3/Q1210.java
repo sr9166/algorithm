@@ -27,41 +27,30 @@ public class Q1210 {
                 }
             }
 
-            boolean isVertical = true;
-            boolean isLeft = false;
             while(true) {
                 if(y == 0) {
                     break;
                 }
 
-                if(isVertical) {
-                    if(x != 0 && arr[y][x - 1] != 0) {
-                        isVertical = false;
-                        isLeft = true;
-                    }
-
-                    if(x != 99 && arr[y][x + 1] != 0) {
-                        isVertical = false;
-                        isLeft = false;
-                    }
-                } else {
-                    if(arr[y][x] != 0) {
-                        isVertical = true;
-                    }
-                }
-
-                if(isVertical) {
-                    y--;
-                } else {
-                    if(isLeft) {
-                        x--;
-                    } else {
+                if (x != 99 && arr[y][x + 1] == 1) { //오른쪽에 길이 있으면 갈 수 있을 떄 까지 오른쪽으로 이동
+                    while (true) {
                         x++;
+                        if (x == 99 || arr[y][x + 1] != 1)
+                            break;
+                    }
+                } else if (x != 0 && arr[y][x - 1] == 1) { //왼쪽에 길이 있으면 갈 수 있을 떄 까지 왼쪽으로 이동
+                    while (true) {
+                        x--;
+                        if (x == 0 || arr[y][x - 1] != 1)
+                            break;
                     }
                 }
+
+                y--;
             }
 
             System.out.println(String.format("#%d %d", testCaseNumber, x));
         }
+        br.close();
     }
 }
