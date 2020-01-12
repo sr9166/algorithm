@@ -65,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q1209">
+  <component name="RunManager" selected="Application.Q1210">
     <configuration name="Q1204" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA_D3.Q1204" />
       <module name="Alogorithm" />
@@ -118,20 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+    <configuration name="Q1210" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_D3.Q1210" />
       <module name="Alogorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SWEA_D3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1210" />
         <item itemvalue="Application.Q1209" />
         <item itemvalue="Application.Q1204" />
         <item itemvalue="Application.Q1208" />
         <item itemvalue="Application.Q1206" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +172,7 @@
       <workItem from="1576889464900" duration="220000" />
       <workItem from="1577353032509" duration="4589000" />
       <workItem from="1577601351352" duration="1487000" />
-      <workItem from="1578823668666" duration="4289000" />
+      <workItem from="1578823668666" duration="5164000" />
     </task>
     <servers />
   </component>
