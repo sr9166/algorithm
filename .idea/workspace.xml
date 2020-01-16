@@ -65,20 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q1219">
-    <configuration name="Q1215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_D3.Q1215" />
-      <module name="Alogorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA_D3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q1220">
     <configuration name="Q1216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA_D3.Q1216" />
       <module name="Alogorithm" />
@@ -131,13 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q1220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_D3.Q1220" />
+      <module name="Alogorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SWEA_D3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1220" />
         <item itemvalue="Application.Q1219" />
         <item itemvalue="Application.Q1218" />
         <item itemvalue="Application.Q1217" />
         <item itemvalue="Application.Q1216" />
-        <item itemvalue="Application.Q1215" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,7 @@
       <workItem from="1577353032509" duration="4589000" />
       <workItem from="1577601351352" duration="1487000" />
       <workItem from="1578823668666" duration="12149000" />
-      <workItem from="1579013869922" duration="3502000" />
+      <workItem from="1579013869922" duration="4145000" />
     </task>
     <servers />
   </component>
