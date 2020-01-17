@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8f5c3b7d-1e24-4fee-9b41-b6c7f5a39a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D4/Q1227.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D4/Q1227.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q2805.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q2805.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SWEA_D3/Q2805.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEA_D3/Q2805.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +175,7 @@
       <workItem from="1577353032509" duration="4589000" />
       <workItem from="1577601351352" duration="1487000" />
       <workItem from="1578823668666" duration="12149000" />
-      <workItem from="1579013869922" duration="7816000" />
+      <workItem from="1579013869922" duration="9555000" />
     </task>
     <servers />
   </component>
