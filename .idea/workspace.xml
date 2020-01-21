@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f5c3b7d-1e24-4fee-9b41-b6c7f5a39a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q2805$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q2805.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/SWEA_D3/Q2805.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/backtracking/Q15650.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/backtracking/Q15650.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,26 +66,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q10773">
+  <component name="RunManager" selected="Application.Q2206">
     <configuration name="Q10773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.Q10773" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_D4.Q1226" />
-      <module name="Alogorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SWEA_D4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,6 +106,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q2206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS_DFS.Q2206" />
+      <module name="Alogorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BFS_DFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q2805" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA_D3.Q2805" />
       <module name="Alogorithm" />
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2206" />
         <item itemvalue="Application.Q10773" />
         <item itemvalue="Application.Q15650" />
         <item itemvalue="Application.Q2805" />
         <item itemvalue="Application.Q1227" />
-        <item itemvalue="Application.Q1226" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +175,7 @@
       <workItem from="1577601351352" duration="1487000" />
       <workItem from="1578823668666" duration="12149000" />
       <workItem from="1579013869922" duration="9924000" />
-      <workItem from="1579523225128" duration="1255000" />
+      <workItem from="1579523225128" duration="3876000" />
     </task>
     <servers />
   </component>
@@ -206,6 +205,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((boolean[][])Q2206.visit)[4][0]" custom="boolean[][]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Alogorithm$Q1806.ic" NAME="Q1806 Coverage Results" MODIFIED="1568229865794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
