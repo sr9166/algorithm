@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f5c3b7d-1e24-4fee-9b41-b6c7f5a39a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/greedy/Q10263.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/greedy/Q10263.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,26 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q9012">
+  <component name="RunManager" selected="Application.Q4949">
     <configuration name="Q10263" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greedy.Q10263" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q10773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.Q10773" />
-      <module name="Alogorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q4949" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.Q4949" />
+      <module name="Alogorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.Q9012" />
       <module name="Alogorithm" />
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q4949" />
         <item itemvalue="Application.Q9012" />
         <item itemvalue="Application.Q10263" />
         <item itemvalue="Application.Q2206" />
         <item itemvalue="Application.Q18258" />
-        <item itemvalue="Application.Q10773" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +174,7 @@
       <workItem from="1577601351352" duration="1487000" />
       <workItem from="1578823668666" duration="12149000" />
       <workItem from="1579013869922" duration="9924000" />
-      <workItem from="1579523225128" duration="9699000" />
+      <workItem from="1579523225128" duration="9947000" />
     </task>
     <servers />
   </component>
