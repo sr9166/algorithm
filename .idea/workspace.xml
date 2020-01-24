@@ -65,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q1037">
+  <component name="RunManager" selected="Application.Q2609">
     <configuration name="Q1037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.Q1037" />
       <module name="Alogorithm" />
@@ -85,6 +85,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.Q2609" />
+      <module name="Alogorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.Q9012" />
-      <module name="Alogorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2609" />
         <item itemvalue="Application.Q1037" />
         <item itemvalue="Application.Q5086" />
         <item itemvalue="Application.Q1874" />
         <item itemvalue="Application.Q4949" />
-        <item itemvalue="Application.Q9012" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,7 @@
       <workItem from="1577601351352" duration="1487000" />
       <workItem from="1578823668666" duration="12149000" />
       <workItem from="1579013869922" duration="9924000" />
-      <workItem from="1579523225128" duration="11495000" />
+      <workItem from="1579523225128" duration="11822000" />
     </task>
     <servers />
   </component>
