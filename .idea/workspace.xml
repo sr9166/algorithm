@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f5c3b7d-1e24-4fee-9b41-b6c7f5a39a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/math/Q2981.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/math/Q2981.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,9 +65,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q3036">
+  <component name="RunManager" selected="Application.Q11050">
     <configuration name="Q1037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.Q1037" />
+      <module name="Alogorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.Q11050" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
@@ -119,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.Q5086" />
-      <module name="Alogorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q11050" />
         <item itemvalue="Application.Q3036" />
         <item itemvalue="Application.Q2981" />
         <item itemvalue="Application.Q2609" />
         <item itemvalue="Application.Q1037" />
-        <item itemvalue="Application.Q5086" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +174,7 @@
       <workItem from="1577601351352" duration="1487000" />
       <workItem from="1578823668666" duration="12149000" />
       <workItem from="1579013869922" duration="9924000" />
-      <workItem from="1579523225128" duration="14196000" />
+      <workItem from="1579523225128" duration="14489000" />
     </task>
     <servers />
   </component>
