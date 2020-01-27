@@ -65,9 +65,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q11050">
-    <configuration name="Q1037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.Q1037" />
+  <component name="RunManager" selected="Application.Q11051">
+    <configuration name="Q11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.Q11050" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.Q11050" />
+    <configuration name="Q11051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.Q11051" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q11051" />
         <item itemvalue="Application.Q11050" />
         <item itemvalue="Application.Q3036" />
         <item itemvalue="Application.Q2981" />
         <item itemvalue="Application.Q2609" />
-        <item itemvalue="Application.Q1037" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,7 @@
       <workItem from="1577601351352" duration="1487000" />
       <workItem from="1578823668666" duration="12149000" />
       <workItem from="1579013869922" duration="9924000" />
-      <workItem from="1579523225128" duration="14489000" />
+      <workItem from="1579523225128" duration="15345000" />
     </task>
     <servers />
   </component>
