@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f5c3b7d-1e24-4fee-9b41-b6c7f5a39a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.Q2441">
     <configuration name="Q11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.Q11050" />
       <module name="Alogorithm" />
@@ -94,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3036" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.Q3036" />
+    <configuration name="Q2441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeat.Q2441" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.*" />
+          <option name="PATTERN" value="repeat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2441" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Q9375" />
         <item itemvalue="Application.Q11051" />
         <item itemvalue="Application.Q11050" />
-        <item itemvalue="Application.Q3036" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +169,7 @@
       <workItem from="1578823668666" duration="12149000" />
       <workItem from="1579013869922" duration="9924000" />
       <workItem from="1579523225128" duration="16181000" />
-      <workItem from="1580205431990" duration="526000" />
+      <workItem from="1580205431990" duration="626000" />
     </task>
     <servers />
   </component>
