@@ -65,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q11721">
+  <component name="RunManager" selected="Application.Q11718">
     <configuration name="Q11718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.Q11718" />
       <module name="Alogorithm" />
@@ -127,8 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q11721" />
         <item itemvalue="Application.Q11718" />
+        <item itemvalue="Application.Q11721" />
         <item itemvalue="Application.Q2558" />
         <item itemvalue="Application.Q2441" />
         <item itemvalue="Application.main" />
@@ -169,7 +169,7 @@
       <workItem from="1578823668666" duration="12149000" />
       <workItem from="1579013869922" duration="9924000" />
       <workItem from="1579523225128" duration="16181000" />
-      <workItem from="1580205431990" duration="1126000" />
+      <workItem from="1580205431990" duration="1523000" />
     </task>
     <servers />
   </component>
