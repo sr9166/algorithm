@@ -65,20 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q2747">
-    <configuration name="Q10039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.Q10039" />
-      <module name="Alogorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q2442">
     <configuration name="Q11726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.Q11726" />
       <module name="Alogorithm" />
@@ -105,6 +92,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Q2309" />
+      <module name="Alogorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2442" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeat.Q2442" />
+      <module name="Alogorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repeat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q2747" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.Q2747" />
       <module name="Alogorithm" />
@@ -118,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.Q9095" />
-      <module name="Alogorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2442" />
+        <item itemvalue="Application.Q2309" />
         <item itemvalue="Application.Q2747" />
         <item itemvalue="Application.Q2193" />
         <item itemvalue="Application.Q11726" />
-        <item itemvalue="Application.Q9095" />
-        <item itemvalue="Application.Q10039" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,7 @@
       <workItem from="1579013869922" duration="9924000" />
       <workItem from="1579523225128" duration="16181000" />
       <workItem from="1580205431990" duration="3786000" />
-      <workItem from="1580380655088" duration="336000" />
+      <workItem from="1580380655088" duration="1015000" />
     </task>
     <servers />
   </component>
