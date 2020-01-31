@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f5c3b7d-1e24-4fee-9b41-b6c7f5a39a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alogorithm/basic/Q1934.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alogorithm/basic/Q1934.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q1934">
+  <component name="RunManager" selected="Application.Q2444">
     <configuration name="Q10953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.Q10953" />
       <module name="Alogorithm" />
@@ -118,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2309 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.Q2309" />
+    <configuration name="Q2444" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeat.Q2444" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backtracking.*" />
+          <option name="PATTERN" value="repeat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2444" />
         <item itemvalue="Application.Q1934" />
         <item itemvalue="Application.Q10953" />
         <item itemvalue="Application.Q1158" />
         <item itemvalue="Application.Q11052" />
-        <item itemvalue="Application.Q2309 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +177,7 @@
       <workItem from="1579013869922" duration="9924000" />
       <workItem from="1579523225128" duration="16181000" />
       <workItem from="1580205431990" duration="3786000" />
-      <workItem from="1580380655088" duration="6711000" />
+      <workItem from="1580380655088" duration="7305000" />
     </task>
     <servers />
   </component>
