@@ -65,13 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q2164">
-    <configuration name="Q14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.Q14681" />
+  <component name="RunManager" selected="Application.Q11866">
+    <configuration name="Q11866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.Q11866" />
       <module name="Alogorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q11866" />
         <item itemvalue="Application.Q2164" />
         <item itemvalue="Application.Q2446" />
         <item itemvalue="Application.Q2523" />
         <item itemvalue="Application.Q5543" />
-        <item itemvalue="Application.Q14681" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +179,7 @@
       <workItem from="1580380655088" duration="13473000" />
       <workItem from="1581087223697" duration="1160000" />
       <workItem from="1582984926145" duration="32000" />
-      <workItem from="1584449724249" duration="1890000" />
+      <workItem from="1584449724249" duration="2382000" />
     </task>
     <servers />
   </component>
